@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatme/static/css/main.8fa415e4.css",
+    "main.js": "/chatme/static/js/main.7b5f558d.js",
+    "index.html": "/chatme/index.html",
+    "main.8fa415e4.css.map": "/chatme/static/css/main.8fa415e4.css.map",
+    "main.7b5f558d.js.map": "/chatme/static/js/main.7b5f558d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa415e4.css",
+    "static/js/main.7b5f558d.js"
+  ]
+}
